@@ -5,3 +5,7 @@
 * Within Python, Pytorch was utilized in order to create both a fully connected neural network and a convolutional neural network
 * Performance evaluation indicated that a convolutional neural network would be the superior option
 * The CNN model achieved a test accuracy of  percent 
+
+![](https://github.com/jgmonteirohub/Melanoma-Detection-with-Neural-Networks/blob/main/NNmodel.png)
+
+Stacked barplot showing the number of visitors that generate revenue each month out of total monthly visitors
