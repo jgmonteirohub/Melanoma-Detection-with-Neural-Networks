@@ -8,4 +8,4 @@
 
 ![](https://github.com/jgmonteirohub/Melanoma-Detection-with-Neural-Networks/blob/main/NNmodel.png)
 
-Stacked barplot showing the number of visitors that generate revenue each month out of total monthly visitors
+A summary of the convolutional neural network model and its parameters and layers
